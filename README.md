@@ -170,5 +170,3 @@ Jaspreet Sharma
 Frontend Developer
 
 ---
-* Make a more professional GitHub-ready version
-* Or tailor it specifically for a job assignment submission 🚀
